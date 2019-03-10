@@ -1,12 +1,12 @@
 # Code For Greensboro GitHub Workshop Site
 
-This is basic HTML static site for workshop particiants (and anyone) to use and learn about Git & GitHub.
+This is basic HTML static site for workshop participants (and anyone) to use and learn about Git & GitHub.
 
 The site was made using `bulma-start`
 
 You can see a current version of this site here: [codeforgso.github.io/github-workshop-site](https://codeforgso.github.io/github-workshop-site)
 
-You can see the slides that accompany this workship here [codeforgso.github.io/github-workshop](https://codeforgso.github.io/github-workshop)
+You can see the slides that accompany this workshop here [codeforgso.github.io/github-workshop](https://codeforgso.github.io/github-workshop)
 
 ## Contributors
 
