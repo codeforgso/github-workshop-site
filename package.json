@@ -1,27 +1,27 @@
 {
-  "_from": "bulma-start",
-  "_id": "bulma-start@0.0.3",
+  "_from": "bulma-start@0.0.4",
+  "_id": "bulma-start@0.0.4",
   "_inBundle": false,
-  "_integrity": "sha512-LJchFdLKUAavS4c8qELN+5FoOicttX8fi1+M2mLZQyf+ru8tcooqQ3j9kdJq1p/FeVyfOLi4vtXP1b3k4tQdtA==",
+  "_integrity": "sha512-/PbhZBs1tIqnU75eh1SVWKC2DeW+xtQaaKITRksvmlCSTp8BH88JJk+gML3XCGE2LhSWyHTT+AIh6mwtUyjlxQ==",
   "_location": "/bulma-start",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "bulma-start",
+    "raw": "bulma-start@0.0.4",
     "name": "bulma-start",
     "escapedName": "bulma-start",
-    "rawSpec": "",
+    "rawSpec": "0.0.4",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "0.0.4"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/bulma-start/-/bulma-start-0.0.3.tgz",
-  "_shasum": "cca27a954506fe59df137ea676045173aac54894",
-  "_spec": "bulma-start",
+  "_resolved": "https://registry.npmjs.org/bulma-start/-/bulma-start-0.0.4.tgz",
+  "_shasum": "19a0783cd8f55d8f5b3d771c984ab56f72e75cb7",
+  "_spec": "bulma-start@0.0.4",
   "_where": "/Users/jthomas/Desktop",
   "author": {
     "name": "Jeremy Thomas",
@@ -35,14 +35,14 @@
   "deprecated": false,
   "description": "Start package for Bulma",
   "devDependencies": {
-    "autoprefixer": "^9.4.7",
+    "autoprefixer": "^9.7.6",
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-es2015-ie": "^6.7.0",
-    "bulma": "^0.7.2",
-    "node-sass": "^4.11.0",
+    "bulma": "^0.8.2",
+    "node-sass": "^4.13.1",
     "npm-run-all": "^4.1.5",
-    "postcss-cli": "^6.1.1"
+    "postcss-cli": "^7.1.0"
   },
   "homepage": "https://github.com/jgthms/bulma-start#readme",
   "keywords": [
@@ -67,5 +67,5 @@
     "js-watch": "npm run js-build -- --watch",
     "start": "npm-run-all --parallel css-watch js-watch"
   },
-  "version": "0.0.3"
+  "version": "0.0.4"
 }
